@@ -1,4 +1,4 @@
-# practice3
+# Flutter Ecommerce practice project
 
 A new Flutter project.
 
